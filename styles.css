@@ -1,0 +1,30 @@
+h1, p, label {
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(0, 127, 255);
+  margin: 0 auto;
+  background-color: rgb(211,211, 211);
+  display: block;
+}
+
+img[id="image"] {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  background-color: white;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+}
+
+section {
+  background: rgb(211,211, 211);
+}
+
+li {
+  padding: 5px;
+}
+
